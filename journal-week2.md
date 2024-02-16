@@ -1,4 +1,5 @@
-**Learning Activities & Resources**
+# **Learning Activities & Resources**
+
 This week I made a another website. However, this time I used the CMS framework Joomla. I also changed hosting providers. Instead of using Github Pages, I used Micrsoft Azure. 
 
 Unfortunately, I don't have links to all of the resources I used this week to complete the practical. From memory, there is definitely some stuff I wasn't able to track down again. 
@@ -9,7 +10,8 @@ I used [this](https://www.youtube.com/watch?v=ccwzg_F76tk) to work out how to cu
 
 I used [this](https://www.youtube.com/watch?v=PmAKzOBLp4U) to work out how to add functionality to the buttons in the navbar. 
 
-**Estimated Hours & Content Insights**
+# **Estimated Hours & Content Insights**
+
 I would say I spent less time working on the pracitcal this week than I did last week. Probably roughly 5 hours. The most time consuming part was creating the web server and getting all of the neccessary prerequistes installed. 
 
 I made a web server in AWS last semester for Cloud Computing, so I was somewhat familar with the process already. I managed to create a VM and install apache2, php, phpmyadmin and MySQL pretty quickly and without too much resistance. I used PuTTYgen to convert the .pem file (supplied by Azure when the VM is created) to a .pk file which I then used to SSH into the web server. I also used PuTTY for this. 
@@ -22,7 +24,8 @@ Once php was updated, I immediately ran into another error - Joomla was saying t
 
 It was pretty much smooth sailing from there.
 
-**Career/Employability/Learning Insights**
+# **Career/Employability/Learning Insights**
+
 I don't think knowledge of Joomla will ever benefit me in the future haha. I wouldn't use it again. It was more annoying than anything. 
 
 I think a lot of the general knowledge that comes with actually being able to create a web server is useful. Also, understanding what components it needs to operate and why etc. is also a big take away from this weeks content, in my opinion. 
