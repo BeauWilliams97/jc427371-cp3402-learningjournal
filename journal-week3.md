@@ -7,10 +7,10 @@ In relation to this, I used [How to Install a WordPress Plugin – Step by Step 
 
 I watched a bunch of YouTube videos from more experienced Wordpress Developers in order to get some sort of an insight into what the best/most useful plugins would be. I decided that for my particular startup, I would definitely need the plugins Elementor and WooCommerce. I followed along with the following tutorials to better understand both plugins:
 
-[Elementor Wordpress Tutorial - The Basics in 10 Minutes](https://www.youtube.com/watch?v=E15iQEm9KF8)
+[Elementor Wordpress Tutorial - The Basics in 10 Minutes](https://www.youtube.com/watch?v=E15iQEm9KF8) &
 [How To Build An eCommerce Store in 15 Minutes](https://www.youtube.com/watch?v=zR1lpFFNwOs)
 
-I was curious as to why numbers are used when setting directory permissions via SSH. [What Is chmod 777 and What Does It Do in Linux?](https://www.linuxscrew.com/chmod-777). More on this later in Content Insights.
+I was curious as to why numbers are used when setting directory permissions via SSH. [What Is chmod 777 and What Does It Do in Linux?](https://www.linuxscrew.com/chmod-777) More on this later in Content Insights.
 
 I didn't migrate my site form Joomla to Wordpress this week, as I wanted to get familiar with using Wordpress and it's features. However, I did keep this in the back of my mind and researched a tutorial after I had finished the prac. [How to Easily Move Your Site from Joomla to WordPress](https://www.wpbeginner.com/wp-tutorials/how-to-move-your-site-from-joomla-to-wordpress/). This is something I will play around with during week 4. 
 
