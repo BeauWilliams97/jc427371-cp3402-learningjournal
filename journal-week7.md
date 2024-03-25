@@ -1,7 +1,7 @@
 # **Learning Activities & Resources**
 A learning activity that I assigned myself this week, was understanding the difference(s) between XXAMP and LAMP (more on this in learning insights). After doing some reading, I decided to trial XXAMP as my local development environment for this weeks prac. However, it is important to note that I also used LAMP. Both stacks were used this week to set up a dynamic site with a database running on my localhost.
 
-Initially, I was using Vagrant + VVV coupled with the LAMP stack - [CognacBox](https://www.youtube.com/watch?v=y6Shl6tS5zE&t=347s). Learning how to set this up was quite straight forward; I followed along with the tutorial provided by Lindsay, where he set up Scotch Box, and I also referred to the documentation on the CognacBox GitHub. 
+Initially, I was using Vagrant + VVV coupled with the LAMP stack - [CognacBox](https://www.youtube.com/watch?v=y6Shl6tS5zE&t=347s). Learning how to set this up was quite straight forward; I followed along with the tutorial provided by Lindsay, where he set up Scotch Box, and I also referred to the documentation on the CognacBox GiHHub. 
 
 As mentioned previously, I decided to trial [XXAMP](https://www.apachefriends.org/download.html). XXAMP is incredibly easy to set up. One click install, and then run the XXAMP control panel. From there, you can launch all the required software/services. Very self explanatory. No additional reading/documentation required. 
 
