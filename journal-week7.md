@@ -12,7 +12,7 @@ I spent roughly 5 hours on this weeks prac.
 
 One notable content insight, based on this weeks learning activities, is that XXAMP is much easier to set up and use than LAMP. I understand most web servers are Linux based, however the simplicity and flexibility of XXAMP is hard to look past. This combined with the fact that it's essentially a one-click install/launch. I will be using XXAMP for all local development from this point onwards. I also plan to recommend it to my group members for Assignment 2. 
 
-A content insight in relation to the PHP learning activity from this week is understanding various PHP methods/functions and when to use them. A few examples:
+A content insight in relation to the PHP learning activity from this week, is understanding the various PHP methods/functions and when to use them. Here is a function and a method that I used this week:
 
 The session_start() function is used to initiate a new session or resume an existing session. Sessions are a way to store information across multiple pages or interactions for a specific user.
 
