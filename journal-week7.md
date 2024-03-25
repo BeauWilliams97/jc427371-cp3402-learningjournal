@@ -5,7 +5,7 @@ Initially, I was using Vagrant + VVV coupled with the LAMP stack - [CognacBox](h
 
 As mentioned previously, I decided to trial [XXAMP](https://www.apachefriends.org/download.html). XXAMP is incredibly easy to set up. One click install, and then run the XXAMP control panel. From there, you can launch all the required software/services. Very self explanatory. No additional reading/documentation required. 
 
-I followed along with this tutorial - [Signup and Login with PHP and MySQL](https://www.youtube.com/watch?v=5L9UhOnuos0&t=2136s) to understand how to implement sign up/login/logout functionality in PHP. I made slight adjustments to the syling of the forms as well as the positioning of the logged in/logged out status. Familiarising myself with the basics of PHP was probably the most challenging learning activity this week. 
+I followed along with this tutorial - [Signup and Login with PHP and MySQL](https://www.youtube.com/watch?v=5L9UhOnuos0&t=2136s) to understand how to implement sign up/login/logout functionality in PHP. I made slight adjustments to the syling of the forms as well as the positioning of the logged in/logged out status. Familiarising myself with the basics of PHP was probably the most challenging learning activity this week. I tried but couldn't work out how to do majority of the requirments for this weeks practical idependently. I needed more time to read/practice. 
 
 # **Estimated Hours & Content Insights**
 I spent roughly 5 hours on this weeks prac.
