@@ -9,7 +9,7 @@ The main learning activity this week was focused on understanding how to go abou
 Our group meeting went for roughly an hour and a half. I then spent around 3 hours on independent learning.
 
 # **Career/Employability/Learning Insights**
-The first career/employability insights that come to my mind from this week is the ability to communicate with team member(s) in order to work towards a common goal, and the ability to collaborate on documentation to effectively communicate progress/updates on project work. 
+The first career/employability insights that come to my mind from this week are the ability to communicate with team member(s) in order to work towards a common goal, and the ability to collaborate on documentation to effectively communicate progress/updates on project work. 
 
 Another notable career/employability insight from this week is time management/adaptability. I believe time management and a degree of adaptability was exercised this week, as we all had to agree upon a time to meet, and we also set some deadlines for up and coming project milestones. 
 
